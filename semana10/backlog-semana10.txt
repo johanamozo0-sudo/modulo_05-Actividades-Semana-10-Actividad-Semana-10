@@ -1,0 +1,5 @@
+Como ciudadano quiero reportar un problema en mi comunidad para que las autoridades o líderes puedan atenderlo.
+Como líder comunitario quiero visualizar los reportes por estado (pendiente, en proceso o resuelto) para hacer seguimiento a cada caso.
+Como ciudadano quiero recibir una notificación cuando mi reporte sea actualizado para conocer el avance de la solución.
+Como coordinador de la veeduría quiero asignar los reportes a un responsable para garantizar que cada caso tenga seguimiento.
+Como miembro del equipo de veeduría quiero consultar estadísticas de los reportes para identificar las problemáticas más frecuentes de la comunidad.

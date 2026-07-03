@@ -1,0 +1,10 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+
+Crear la función para registrar reportes.
+Permitir consultar los reportes registrados.
+
+2. ¿Por qué son las más importantes?
+Porque son la base de la plataforma y permiten que los usuarios reporten y hagan seguimiento a los casos.
+
+3. ¿Qué significa que una tarea esté "terminada"?
+Que funciona correctamente, fue probada y quedó guardada en Git.
